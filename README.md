@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+<img align="left" alt="cluelessidiot2401's Github Stats" src="https://github-readme-stats.vercel.app/api?username=cluelessidiot2401&show_icons=true&hide_border=true" />
 
 <!--
 **cluelessidiot2401/cluelessidiot2401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
