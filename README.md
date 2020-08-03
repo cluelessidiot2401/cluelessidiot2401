@@ -1,9 +1,6 @@
 ### Hello there 👋
 
 <img align="left" alt="cluelessidiot2401's Github Stats" src="https://github-readme-stats.vercel.app/api?username=cluelessidiot2401&theme=dark&show_icons=true&hide_border=true" />
-<br/>
-
----
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cluelessidiot2401)](https://github.com/anuraghazra/github-readme-stats)
 
